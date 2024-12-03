@@ -8,7 +8,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import lombok.SneakyThrows;
 
-public class B {
+public class ByfSerialize {
 
 
   @SneakyThrows
